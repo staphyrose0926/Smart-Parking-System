@@ -1,0 +1,5 @@
+outs:
+- md5: 7aa67b7bc42c5c5f169fe0993330ed48
+  size: 5844229
+  hash: md5
+  path: india_2000_2024_daily_weather.csv

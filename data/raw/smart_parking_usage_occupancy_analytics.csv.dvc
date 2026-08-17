@@ -1,0 +1,5 @@
+outs:
+- md5: 3a5b9f1ad1ce22eee28a225961bbcaca
+  size: 205118
+  hash: md5
+  path: smart_parking_usage_occupancy_analytics.csv
